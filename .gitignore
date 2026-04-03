@@ -44,4 +44,5 @@ agents/
 backups/
 commands/
 get-shit-done/
+hooks/gsd-*.js
 skills/
