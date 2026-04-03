@@ -40,3 +40,8 @@ vercel-plugin-telemetry-preference
 gsd-file-manifest.json
 settings.local.json
 settings.json
+agents/
+backups/
+commands/
+get-shit-done/
+skills/
