@@ -13,5 +13,30 @@ build/
 *.egg-info/
 
 # Claude Code
-.claude/
 .claude_history
+
+# Local state — do not commit
+cache/
+debug/
+file-history/
+history.jsonl
+ide/
+mcp-needs-auth-cache.json
+package.json
+paste-cache/
+plans/
+plugins/
+projects/
+session-env/
+sessions/
+shell-snapshots/
+stats-cache.json
+statsig/
+tasks/
+telemetry/
+todos/
+vercel-plugin-device-id
+vercel-plugin-telemetry-preference
+gsd-file-manifest.json
+settings.local.json
+settings.json
